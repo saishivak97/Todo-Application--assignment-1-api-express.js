@@ -77,7 +77,7 @@ Use `date-fns` format function to format the date. Refer to the documentation [l
 
 ### API 1
 
-#### Path: `/todos/`
+#### Path: `/todos`
 
 #### Method: `GET`
 
